@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GEOCite](https://raw.githubusercontent.com/GeoCite/.github/main/profile/logo_2.png)
+
 <!--
 
 **Here are some ideas to get you started:**
